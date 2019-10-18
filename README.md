@@ -34,5 +34,13 @@ NRP: 06111840000028
 ## Screenshot hasil
 masukkan screenshot output disini
 
+![asis4_1](https://user-images.githubusercontent.com/56017428/67063743-07ce7180-f192-11e9-8dc7-ad2cf6e5936a.PNG)
+
+![asis4_2](https://user-images.githubusercontent.com/56017428/67063745-09983500-f192-11e9-8788-6ac12b55afd6.PNG)
+
+![asis4_3](https://user-images.githubusercontent.com/56017428/67063746-09983500-f192-11e9-8435-4fc8a4743238.PNG)
+
+![asis4_4](https://user-images.githubusercontent.com/56017428/67063747-09983500-f192-11e9-9352-5bf360f51d54.PNG)
+
 ## Upload
 upload seluruh folder project java-nya ke repository ini
